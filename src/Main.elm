@@ -78,7 +78,7 @@ subscriptions _ =
 
 view : Model -> Browser.Document Msg
 view model =
-    { title = "Beer Engineer Elm"
+    { title = "Elm Application"
     , body = htmlBody model
     }
 
