@@ -1,6 +1,6 @@
-# elm-application-parcel
+# elm-parcel-application
 
-An example Elm application built with Parcel.
+An example Elm application with navigation built with Parcel.
 
 ## Running the application
 
