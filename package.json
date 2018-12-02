@@ -9,10 +9,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/martinbryant/beer-engineer-elm.git"
+    "url": "git+https://github.com/martinbryant/elm-parcel-application.git"
   },
   "author": "Martin Bryant <mail@martinbryant.io>",
-  "homepage": "https://github.com/martinbryant/beer-engineer-elm#readme",
+  "homepage": "https://github.com/martinbryant/elm-parcel-application#readme",
   "dependencies": {
     "parcel-bundler": "^1.10.0"
   },
